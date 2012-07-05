@@ -1,8 +1,9 @@
 #!/bin/bash
 # Bash Script to integrate Virtualbox into Unity Launch bar.
 # Creator: Daniel Scholtus
-# Version: 1
-# Date:    March 24, 2011
+# Contributor: David Beitey
+# Version: 1.1
+# Date:    2012-07-05
 
 #Determine which is installed, virtualbox or virtualbox-ose
 #Given the packages are mutually exclusive, only one exists at any one time
