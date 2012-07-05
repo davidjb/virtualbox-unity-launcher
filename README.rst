@@ -25,7 +25,7 @@ Tested under Ubuntu 12.04 and with VirtualBox 4.1.
 #. Download this script and make it executable::
 
     cd ~/.local/bin
-    wget http://virtualbox-unity-launcher.googlecode.com/files/virtualbox-unity.sh
+    wget https://github.com/davidjb/virtualbox-unity-launcher/raw/master/virtualbox-unity.sh
     chmod u+x virtualbox-unity.sh
 
 #. Run it - this will create the Launcher item::
