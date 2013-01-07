@@ -67,10 +67,10 @@ Fork me
 Feel free to improve this script however you would like. Send through pull 
 requests at your leisure.  Current future ideas for implementation are:
 
- * Prevent VirtualBox from needing to be manually re-added during updates
-   (eg start VirtualBox if not running, update, and then quit VirtualBox
-   if it wasn't running)
- * Automatic updating (or instructions for cron, etc)
+* Prevent VirtualBox from needing to be manually re-added during updates
+  (eg start VirtualBox if not running, update, and then quit VirtualBox
+  if it wasn't running)
+* Automatic updating (or instructions for cron, etc)
 
 
 License
