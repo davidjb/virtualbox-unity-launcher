@@ -10,6 +10,8 @@ Original Credit
 ===============
 
 This script was originally from http://code.google.com/p/virtualbox-unity-launcher/.
+This GitHub repository is its official home now.
+
 A very big thanks to Daniel Scholtus for starting this.
 
 
