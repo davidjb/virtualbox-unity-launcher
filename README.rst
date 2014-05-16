@@ -15,11 +15,25 @@ This GitHub repository is its official home now.
 A very big thanks to Daniel Scholtus for starting this.
 
 
+Get forked
+==========
+
+Feel free to improve this script however you would like. Send through pull 
+requests at your leisure.  Current future ideas for implementation are:
+
+* Prevent VirtualBox from needing to be manually re-added during updates
+  (eg start VirtualBox if not running, update, and then quit VirtualBox
+  if it wasn't running)
+* Automatic updating (or instructions for cron, etc)
+
+
 Installation
 ============
 
-Tested under Ubuntu 12.10 and with VirtualBox 4.2. Testing will keep in
-lockstep with what I'm running on my computer.
+Tested under Ubuntu 14.04 and with VirtualBox 4.3.10. 
+
+Testing will keep in lockstep with what I'm running on my computer.
+Check out the given releases (tags) for previous known working versions.
 
 
 #. Create the folders needed (just in case they are not present)::
@@ -48,6 +62,7 @@ lockstep with what I'm running on my computer.
 Backwards compatibility is not guaranteed, but will probbaly work just fine.
 If something goes amiss, feel free to fork, fix, and send a pull request.
 
+
 Updating your Launcher item
 ===========================
 
@@ -61,22 +76,11 @@ again). In either case, you will need to 're-lock' your Launcher item
 using the instructions above.
 
 
-Fork me
-=======
-
-Feel free to improve this script however you would like. Send through pull 
-requests at your leisure.  Current future ideas for implementation are:
-
-* Prevent VirtualBox from needing to be manually re-added during updates
-  (eg start VirtualBox if not running, update, and then quit VirtualBox
-  if it wasn't running)
-* Automatic updating (or instructions for cron, etc)
-
 
 License
 =======
 
-Copyright (c) 2012 David Beitey (and Daniel Scholtus) 
+Copyright (c) 2012-2014 David Beitey (and Daniel Scholtus) 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
