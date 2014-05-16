@@ -48,7 +48,7 @@ Check out the given releases (tags) for previous known working versions.
 
 #. Run the script you just downloaded - doing so will create the Launcher item::
 
-    ~/local/bin/virtualbox-unity.sh
+    ~/.local/bin/virtualbox-unity.sh
 
 #. Unlock VirtualBox from the Launcher and close any
    VirtualBox instance running (so its Launcher item disappears).
@@ -59,7 +59,7 @@ Check out the given releases (tags) for previous known working versions.
 #. Click ``Lock to Launcher`` in this context menu to keep VirtualBox in your
    Launcher. See below about how to update the listing.
 
-Backwards compatibility is not guaranteed, but will probbaly work just fine.
+Backwards compatibility is not guaranteed, but will probably work just fine.
 If something goes amiss, feel free to fork, fix, and send a pull request.
 
 
@@ -70,7 +70,7 @@ If you already have followed the instructions above, then the easiest way
 to update your Launcher item is to re-run the ``virtualbox-unity.sh`` script.
 
 If you re-run the script whilst VirtualBox is still running, the Launcher
-item will update immediately.  If VirtualBox is not running, the Laucnher
+item will update immediately.  If VirtualBox is not running, the Launcher
 item will disappear (but be available correctly once you start VirtualBox
 again). In either case, you will need to 're-lock' your Launcher item
 using the instructions above.
